@@ -1,0 +1,41 @@
+window:
+  width: 800
+  height: 600
+  title: 'Nerd theatre'
+
+color:
+  reserved: '#CC4444'
+  claimed: '#4444CC'
+  free: '#44CC44'
+  background: '#444444'
+
+theatre:
+  rows: 10
+  cols: 15
+
+movies:
+  - Dune:
+    name: 'Dune 2'
+    price: 495
+    date: '2024-05-01'
+    time: '20:00'
+  - Godzilla:
+    name: 'Godzilla x Kong: the new Empire'
+    price: 395
+    date: '2024-05-01'
+    time: '16:00'
+  - Return of the Jedi:
+    name: 'Star Wars - Return of the Jedi'
+    price: 395
+    date: '2024-05-01'
+    time: '16:00'
+  - The Empire Strikes Back:
+    name: 'Star Wars - The Empire Strikes Back'
+    price: 395
+    date: '2024-05-01'
+    time: '16:00'
+  - My Little Pony:
+    name: 'My Little Pony - Kill them ALL'
+    price: 395
+    date: '2024-05-01'
+    time: '16:00'
